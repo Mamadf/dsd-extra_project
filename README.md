@@ -4,7 +4,7 @@
 - Verilog
 - Modelsim
 ## Implementation Details
-This elevator works based on time priority. But if we reach a floor that its request signal is on , we wait for a certain time.
+This elevator works based on time priority. But if we reach a floor that its request signal is on , we wait for a certain time without checking its priority.
 This is an example that illustrates the explanation:
 
 ![Screenshot (625)](https://github.com/Mamadf/dsd-extra_project/assets/119750913/93137f22-8021-424d-90a9-4be26a543fe0)
